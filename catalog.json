@@ -126,9 +126,13 @@
     }
   ],
   "aggregations": {
-    "home": {
-      "count": 4,
-      "inventoryValue": 56656.56
-    }
+  "home": {
+    "count": 4,
+    "inventoryValue": 56656.56
+  },
+  "electronics": {
+    "count": 0,
+    "inventoryValue": 0
   }
+}
 }
